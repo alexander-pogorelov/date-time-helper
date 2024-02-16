@@ -1,0 +1,11 @@
+{
+    "name": "alexander-pogorelov/date-time-helper",
+    "autoload": {
+        "psr-4": {
+            "AlexanderPogorelov\\DateTimeHelper\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }
+}

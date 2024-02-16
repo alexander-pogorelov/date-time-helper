@@ -4,17 +4,17 @@ Simple library which help:
 - to obtain current time in MySQL string format
 - to create DateTimeImmutable object from MySQL string
 
-## Требования
+## Requirements
 
 - PHP 7.1
 
-## Установка
+## Installation
 
 ```bash
 composer require alexander-pogorelov/date-time-helper
 ```
 
-## Использование
+## Getting Started
 
 ```php
 <?php
